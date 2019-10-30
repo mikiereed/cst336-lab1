@@ -27,7 +27,7 @@ in html
         </header>
         <hr />
         <nav>
-           <a href="index.html" id="current">Home</a>
+           <a href="index.php" id="current">Home</a>
            <a href="about.html">About</a>
            <a href="contact.html">Contact</a>
         </nav>
